@@ -6,7 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Autotest/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
+>>>>>>> mergedemo
       </list>
     </option>
   </component>
