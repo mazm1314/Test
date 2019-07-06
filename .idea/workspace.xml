@@ -84,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -137,7 +137,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2" />
     <option name="y" value="8" />
     <option name="width" value="1386" />
@@ -458,7 +458,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562409778716</updated>
-      <workItem from="1562409780115" duration="5177000" />
+      <workItem from="1562409780115" duration="5371000" />
     </task>
     <servers />
   </component>
@@ -495,7 +495,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5177000" />
+    <option name="totallyTimeSpent" value="5371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -507,7 +507,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
@@ -636,7 +636,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
