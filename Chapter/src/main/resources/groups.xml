@@ -10,7 +10,7 @@
     </test>
 
     <test name="runstu">
-        
+
         <groups>
             <run>
                 <include name="stu"></include>

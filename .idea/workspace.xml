@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/ingnore/IngnoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/groups.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,8 +105,8 @@
       <file leaf-file-name="groups.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="227">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -173,7 +166,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2" />
     <option name="y" value="8" />
     <option name="width" value="1386" />
@@ -498,7 +491,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562409778716</updated>
       <workItem from="1562409780115" duration="5371000" />
-      <workItem from="1562467344981" duration="3511000" />
+      <workItem from="1562467344981" duration="3515000" />
     </task>
     <servers />
   </component>
@@ -535,7 +528,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9709000" />
+    <option name="totallyTimeSpent" value="9713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,7 +540,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -893,8 +886,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="227">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
