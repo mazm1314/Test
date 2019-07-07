@@ -2,7 +2,7 @@ package com.learn.test.group;
 
 import org.testng.annotations.Test;
 
-//类的测试，可以在类上边做测试用例
+//5.10类的测试，可以在类上边做测试用例
 @Test(groups = "stu")
 public class GroupsOnClass1 {
     public void stu1(){
