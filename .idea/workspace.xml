@@ -3,22 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/Suite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/BasicAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/depend/dependTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/group/GroupMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/group/GroupsOnClass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/group/GroupsOnClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/group/GroupsOnClass3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/ingnore/IngnoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/paramter/DataPrivider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/paramter/ParamterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/suite/ExpectedExcptiong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/suite/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/suite/SuiteConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/com/learn/test/suite/payTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/groups.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/target/classes/parameter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BasicAnnotation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,6 +127,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -162,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DataPrivider.test2">
+  <component name="RunManager" selected="TestNG.BasicAnnotation">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -181,6 +185,35 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="BasicAnnotation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.learn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.test.BasicAnnotation" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="DataPrivider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
@@ -269,29 +302,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="E:/AutoTest/Test/Chapter/src/main/resources/Suite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="ExpectedExcptiong" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
@@ -345,18 +355,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.ExpectedExcptiong" />
-      <item itemvalue="TestNG.E:/AutoTest/Test/Chapter/src/main/resources/Suite.xml" />
       <item itemvalue="TestNG.DataPrivider" />
       <item itemvalue="TestNG.DataPrivider.test1" />
       <item itemvalue="TestNG.DataPrivider.test2" />
+      <item itemvalue="TestNG.BasicAnnotation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BasicAnnotation" />
         <item itemvalue="TestNG.DataPrivider.test2" />
         <item itemvalue="TestNG.DataPrivider.test1" />
         <item itemvalue="TestNG.DataPrivider" />
         <item itemvalue="TestNG.ExpectedExcptiong" />
-        <item itemvalue="TestNG.E:/AutoTest/Test/Chapter/src/main/resources/Suite.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +383,7 @@
       <workItem from="1562409780115" duration="5371000" />
       <workItem from="1562467344981" duration="3515000" />
       <workItem from="1562574212981" duration="855000" />
-      <workItem from="1562580973284" duration="4334000" />
+      <workItem from="1562580973284" duration="5419000" />
     </task>
     <servers />
   </component>
@@ -410,7 +420,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19392000" />
+    <option name="totallyTimeSpent" value="20477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,6 +433,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
@@ -434,11 +445,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32994923" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37619555" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37619555" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -663,13 +674,6 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar!/org/testng/annotations/AfterTest.class" />
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/SuiteConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -796,6 +800,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
