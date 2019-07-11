@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultOnThreadOnxml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultThreadOnAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter/src/main/resources/multThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/demo/TestMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter6/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter/Chapter6/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +29,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicAnnotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
+      <file leaf-file-name="TestMethodsDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/TestMethodsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="-139">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +65,6 @@
       <list>
         <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java" />
         <option value="$PROJECT_DIR$/Chapter/src/main/resources/Site.xml.fxml" />
-        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/payTest.java" />
         <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/LoginTest.java" />
         <option value="$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml" />
@@ -72,6 +81,14 @@
         <option value="$PROJECT_DIR$/Chapter/src/main/resources/parameter.xml" />
         <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/paramter/DataPrivider.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultOnThreadOnxml.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultThreadOnAnnotion.java" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/resources/multThread.xml" />
+        <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java" />
+        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter6/src/main/java/demo/TestMethodsDemo.java" />
       </list>
     </option>
   </component>
@@ -91,18 +108,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="198" />
-    <option name="y" value="52" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="27" />
+    <option name="y" value="23" />
+    <option name="width" value="1412" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,7 +129,37 @@
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,6 +167,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,6 +179,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learn.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AutoTest\Test\Chapter6\src\main\java" />
+      <recent name="E:\AutoTest\Test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BasicAnnotation">
+  <component name="RunManager" selected="TestNG.TestMethodsDemo.logDemo">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -165,19 +221,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicAnnotation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+    <configuration name="TestMethodsDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.test.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.learn.test" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.test.BasicAnnotation" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -194,22 +250,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="DataPrivider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+    <configuration name="TestMethodsDemo.logDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.test.paramter.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.learn.test.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.test.paramter.DataPrivider" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
+      <option name="METHOD_NAME" value="logDemo" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -223,19 +279,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="DataPrivider.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+    <configuration name="TestMethodsDemo.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.test.paramter.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.learn.test.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.test.paramter.DataPrivider" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
       <option name="METHOD_NAME" value="test1" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -252,19 +308,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="DataPrivider.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+    <configuration name="TestMethodsDemo.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.test.paramter.*" />
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.learn.test.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.test.paramter.DataPrivider" />
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
       <option name="METHOD_NAME" value="test2" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -281,22 +337,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="ExpectedExcptiong" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeOutTest.testSuccess" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.test.suite.*" />
+          <option name="PATTERN" value="com.learn.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.learn.test.suite" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.test.suite.ExpectedExcptiong" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="com.learn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.test.TimeOutTest" />
+      <option name="METHOD_NAME" value="testSuccess" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -333,19 +389,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.ExpectedExcptiong" />
-      <item itemvalue="TestNG.DataPrivider" />
-      <item itemvalue="TestNG.DataPrivider.test1" />
-      <item itemvalue="TestNG.DataPrivider.test2" />
-      <item itemvalue="TestNG.BasicAnnotation" />
+      <item itemvalue="TestNG.TimeOutTest.testSuccess" />
+      <item itemvalue="TestNG.TestMethodsDemo" />
+      <item itemvalue="TestNG.TestMethodsDemo.test1" />
+      <item itemvalue="TestNG.TestMethodsDemo.test2" />
+      <item itemvalue="TestNG.TestMethodsDemo.logDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BasicAnnotation" />
-        <item itemvalue="TestNG.DataPrivider.test2" />
-        <item itemvalue="TestNG.DataPrivider.test1" />
-        <item itemvalue="TestNG.DataPrivider" />
-        <item itemvalue="TestNG.ExpectedExcptiong" />
+        <item itemvalue="TestNG.TestMethodsDemo.logDemo" />
+        <item itemvalue="TestNG.TestMethodsDemo" />
+        <item itemvalue="TestNG.TestMethodsDemo.test2" />
+        <item itemvalue="TestNG.TestMethodsDemo.test1" />
+        <item itemvalue="TestNG.TimeOutTest.testSuccess" />
       </list>
     </recent_temporary>
   </component>
@@ -362,44 +418,45 @@
       <workItem from="1562409780115" duration="5371000" />
       <workItem from="1562467344981" duration="3515000" />
       <workItem from="1562574212981" duration="855000" />
-      <workItem from="1562580973284" duration="7425000" />
+      <workItem from="1562580973284" duration="8633000" />
+      <workItem from="1562730557972" duration="7959000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataPrivider_test1 - 2019.07.08 at 18h 54m 46s.xml">
-      <configuration name="DataPrivider.test1" configurationId="TestNG" />
+    <history-entry file="TimeOutTest_testSuccess - 2019.07.10 at 20h 16m 56s.xml">
+      <configuration name="TimeOutTest.testSuccess" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test2 - 2019.07.08 at 18h 54m 53s.xml">
-      <configuration name="DataPrivider.test2" configurationId="TestNG" />
+    <history-entry file="TimeOutTest_testFailed - 2019.07.10 at 20h 17m 05s.xml">
+      <configuration name="TimeOutTest.testFailed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test1 - 2019.07.08 at 18h 55m 16s.xml">
-      <configuration name="DataPrivider.test1" configurationId="TestNG" />
+    <history-entry file="TimeOutTest_testSuccess - 2019.07.10 at 20h 18m 42s.xml">
+      <configuration name="TimeOutTest.testSuccess" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test1 - 2019.07.08 at 18h 55m 58s.xml">
-      <configuration name="DataPrivider.test1" configurationId="TestNG" />
+    <history-entry file="TimeOutTest_testSuccess - 2019.07.10 at 20h 49m 28s.xml">
+      <configuration name="TimeOutTest.testSuccess" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test2 - 2019.07.08 at 18h 56m 18s.xml">
-      <configuration name="DataPrivider.test2" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo - 2019.07.11 at 09h 36m 44s.xml">
+      <configuration name="TestMethodsDemo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test1 - 2019.07.08 at 18h 57m 00s.xml">
-      <configuration name="DataPrivider.test1" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo_test1 - 2019.07.11 at 09h 44m 56s.xml">
+      <configuration name="TestMethodsDemo.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test1 - 2019.07.08 at 18h 57m 52s.xml">
-      <configuration name="DataPrivider.test1" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo_test2 - 2019.07.11 at 09h 45m 03s.xml">
+      <configuration name="TestMethodsDemo.test2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataPrivider_test2 - 2019.07.08 at 18h 58m 07s.xml">
-      <configuration name="DataPrivider.test2" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo_logDemo - 2019.07.11 at 10h 20m 39s.xml">
+      <configuration name="TestMethodsDemo.logDemo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicAnnotation - 2019.07.09 at 14h 39m 31s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo - 2019.07.11 at 10h 20m 45s.xml">
+      <configuration name="TestMethodsDemo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="BasicAnnotation - 2019.07.09 at 14h 42m 05s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
+    <history-entry file="TestMethodsDemo_logDemo - 2019.07.11 at 10h 21m 35s.xml">
+      <configuration name="TestMethodsDemo.logDemo" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22483000" />
+    <option name="totallyTimeSpent" value="31650000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,25 +473,25 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.7523911" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.7523911" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32994923" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37619555" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32994923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27098832" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32994923" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,69 +508,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" selection-start-line="5" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="60" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/payTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
@@ -540,13 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -591,13 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -646,34 +628,7 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar!/org/testng/annotations/AfterTest.class" />
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/SuiteConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/payTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -688,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -702,28 +650,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/ingnore/IngnoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="60" lean-forward="true" selection-end-line="1" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar!/org/testng/TestNG.class" />
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/Suite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -731,10 +658,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/ExpectedExcptiong.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/ingnore/IngnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -745,19 +679,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/paramter/DataPrivider.java">
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/ExpectedExcptiong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/payTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="60" lean-forward="true" selection-end-line="1" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/group/GroupsOnClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -768,6 +728,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/paramter/DataPrivider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/parameter.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -775,17 +749,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultOnThreadOnxml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="425">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/multThread.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/multThread/MultThreadOnAnnotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/Chapter6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/TestMethodsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -806,7 +857,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -841,7 +892,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Chapter5</last-edited>
+          <last-edited>Chapter6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -854,6 +905,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
