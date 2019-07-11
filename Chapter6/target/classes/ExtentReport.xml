@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<!--6.5讲解ExtentReport的基本配置-->
+
+<suite name="testextent">
+    <test name="test">
+        <classes>
+            <class name="demo.TestMethodsDemo">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                    <include name="logDemo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <!--添加监听器，出测试报告
+    运行完这个xml文件后，会出现一个文件：test-output   粘贴其中的path路径就可以查看报告
+    emailable-report.html  可以直接查看报告
+    report.html    css加载不出来
+    -->
+    <listeners>
+        <!--<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>-->
+        <!--<listener class-name="demo.ExtentTestNGReporterListenerOld"/>-->
+        <listener class-name="demo.ExtentTestNGIReporterListener" />
+    </listeners>
+</suite>
