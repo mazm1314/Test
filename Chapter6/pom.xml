@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.learn.test</groupId>
+    <groupId>com.Learn.code</groupId>
     <artifactId>Chapter6</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
@@ -24,6 +24,8 @@
             <artifactId>extentreports</artifactId>
             <version>3.0.6</version>
         </dependency>
+        <!--添加http://extentreports.com/demo/的测试报告-->
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
