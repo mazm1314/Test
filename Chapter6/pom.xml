@@ -5,37 +5,45 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.Learn.code</groupId>
-    <artifactId>pom</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>Chapter6</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
+        <!--添加http://extentreports.com/demo/的测试报告-->
+        <dependency>
+            <groupId>com.relevantcodes</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>2.41.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.vimalselvam</groupId>
+            <artifactId>testng-extentsreport</artifactId>
+            <version>1.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>3.0.6</version>
+        </dependency>
+        <!--添加http://extentreports.com/demo/的测试报告-->
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>RELEASE</version>
+            <version>7.0.0-beta7</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>RELEASE</version>
+            <version>7.0.0-beta7</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>RELEASE</version>
+            <version>7.0.0-beta7</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
-
-
-
-
+    
 </project>
