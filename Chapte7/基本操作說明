@@ -8,6 +8,6 @@
 將jar包粘貼進來
 
 路徑要注意
-啟動命令： java-jar ./moco-runner-0.11.0-standalone.jar -p 1212  -c   starp.json
+啟動命令： java -jar ./moco-runner-0.11.0-standalone.jar -p 1212  -c   starup.json
 
 然後在  chapte7下運行該命令   用git就行
