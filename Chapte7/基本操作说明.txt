@@ -7,6 +7,14 @@
 7.2：moco的啟動和第一個demo
 將jar包粘貼進來
 
-路徑要注意
-啟動命令： java -jar ./moco-runner-0.11.0-standalone.jar -p 1212  -c   starup.json
+路径要注意
+启动命令： java -jar ./moco-runner-0.11.0-standalone.jar http -p 8989 -c starup.json
+
+7.6：Moco框架中如何加入cookies
+
+注意的是：添加cookies时要添加域名
+
+
+7.9  MOCO 实现重定向
+
 

@@ -1,0 +1,53 @@
+8.1: 在浏览器中查看http协议头
+    在浏览器中使用开发者工具
+
+8.2：请求头信息字段含义介绍
+    请求头：
+    1、Accept:浏览器告诉服务器它所支持的数据类型
+    2、Accept-Charset:浏览器告诉服务器它采用的字符集  utf-8之类的
+    3、Accept-Encoding：浏览器告诉服务器它所支持的压缩格式
+    4、Accept-Language:浏览器告诉服务器它所采用的语言
+    5、host：浏览器告诉服务器它想访问哪台主机
+    6、If-Modified-Since:浏览器告诉服务器他缓存数据时间是多少
+    7、referer:浏览器告诉服务器我是从哪个网页点过来的（防盗链）
+    8、User-Agent:浏览器告诉服务器我所使用的浏览器类型、版本等信息
+    9、data：浏览器告诉服务器我什么时间访问的
+
+8.3：响应头信息字段含义介绍
+    响应头：
+    1、Cache-Control: private
+    2、Connection: keep-alive   链接方式
+    3、Content-Encoding: gzip    告诉浏览器回送的数据采用压缩格式
+    4、Content-Length: 90
+    5、Content-Type: text/html;charset=utf-8   告诉浏览回器送的数据类型
+    6、Date: Wed, 17 Jul 2019 04:22:58 GMT
+    7、Expires: Wed, 17 Jul 2019 04:22:58 GMT
+    8、Server: BWS/1.0     服务器告诉浏览器的类型
+    9、Tracecode: 13781934680639833866071712
+    10、Vary: Accept-Encoding
+    11、Location:   告诉浏览器你去找谁，配合302（转发）状态码使用
+    12、Last-Modfied:   告诉浏览器数据最后的修改时间
+    13、Refresh：用于控制浏览器定时刷新
+    14、content——Disposition:这个头告诉浏览器要以下载方式打开回送的数据
+    15、Transfer-Encoding:chunked      这个头告诉浏览器数据是以分块形式回送的
+
+8.4:Session和Cookie
+    区别：
+    1、cookie在客户端的头信息中
+    2、session在服务端存储，文件、数据库等都可以  （比如Redis）
+    3、一般来说session的验证需要cookies带一个字段来表示这个用户是哪一个session，所以当客户端禁用cookies时，session将失效
+    cookies的总结：
+    1、cookies的数据是自定义的
+    2、以key-value形式存在
+
+    Cookie: BAIDUID=9C150EDE2C3D4303DE9B60003900EF52:FG=1;
+    BDUSS=khaMll5VXlvZH52bUNMeDZmOFBDT2pxZ1puUThJODh3UlZIdWJON3plamxuR3BjQVFBQUFBJCQAAAAAAAAAAAEAAADgrw5Fenptem0xMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOUPQ1zlD0NcT;
+    PSTM=1547899598;
+    BIDUPSID=7DAFD4EFF9E6937174831FE70AA97BA6;
+    BD_UPN=12314753;
+    COOKIE_SESSION=155972_0_8_3_0_7_0_0_6_5_0_0_0_0_0_0_0_0_1563009649%7C9%230_0_1563009649%7C1;
+    BD_HOME=1; BDRCVFR[feWj1Vr5u3D]=I67x6TjHwwYf0; delPer=0; BD_CK_SAM=1; PSINO=2;
+    BDORZ=B490B5EBF6F3CD402E515D22BCDA1598; ispeed_lsm=2; ZD_ENTRY=baidu;
+    H_PS_PSSID=1431_21088_18559_29523_29518_28519_29099_28833_29221_22157; sugstore=1; BDSVRTM=31
+
+    3、cookie的值由服务端生成，客户端保存

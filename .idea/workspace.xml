@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/Chapte7/基本操作說明" beforeDir="false" afterPath="$PROJECT_DIR$/Chapte7/基本操作說明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/Chapte7/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapte7/starp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapte7/基本操作說明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGReporterListenerOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/ExtentReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git管理.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/test-output/index.html" afterDir="false" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+      <change afterPath="$PROJECT_DIR$/Chapte7/starpWithRedirction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapte7/starupGet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapte7/starupPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapte7/starupWithCookies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/src/main/java/learn/com/MyhttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/src/main/java/learn/cookies/MycookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第八章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapte7/starup" beforeDir="false" afterPath="$PROJECT_DIR$/Chapte7/starup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapte7/基本操作說明" beforeDir="false" afterPath="$PROJECT_DIR$/Chapte7/基本操作说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -32,93 +28,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="基本操作說明" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明">
+      <file leaf-file-name="说明.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/说明.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-=======
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="starup" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapte7/starup">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="38">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtentReport.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/ExtentReport.xml">
+      <file leaf-file-name="MyhttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/src/main/java/learn/com/MyhttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+            <state relative-caret-position="266">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtentTestNGReporterListenerOld.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGReporterListenerOld.java">
+      <file leaf-file-name="starupWithCookies.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapte7/starupWithCookies.json">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="171">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-=======
-            <state relative-caret-position="25">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MycookiesForGet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter7/src/main/java/learn/cookies/MycookiesForGet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="git管理.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git管理.txt">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-=======
-      <file leaf-file-name="ExtentTestNGIReporterListener.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGIReporterListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3075">
-              <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="multThread.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/multThread.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="groups.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
-=======
-      <file leaf-file-name="基本操作說明" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+            <state relative-caret-position="361">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -177,6 +140,10 @@
         <option value="$PROJECT_DIR$/Chapte7/starp" />
         <option value="$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java" />
         <option value="$PROJECT_DIR$/Chapte7/基本操作說明" />
+        <option value="$PROJECT_DIR$/Chapter7/说明.txt" />
+        <option value="$PROJECT_DIR$/Chapte7/starupWithCookies.json" />
+        <option value="$PROJECT_DIR$/Chapter7/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Chapter7/src/main/java/learn/cookies/MycookiesForGet.java" />
       </list>
     </option>
   </component>
@@ -198,16 +165,21 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter7" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter7" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pom" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter7" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Chapter8" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -216,32 +188,23 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-2" />
-    <option name="y" value="8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="4" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-=======
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="27" />
-    <option name="y" value="23" />
-    <option name="width" value="1412" />
-    <option name="height" value="877" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scope" />
-=======
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,41 +220,25 @@
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -299,62 +246,44 @@
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="Chapter8" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="cookies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-<<<<<<< HEAD
-=======
-      <pane id="Scope" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.mazmTomcat">
+  <component name="RunManager" selected="TestNG.MycookiesForGet">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -434,19 +363,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestMethodsDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter6" />
+    <configuration name="MycookiesForGet" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="learn.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
+      <option name="PACKAGE_NAME" value="learn.cookies" />
+      <option name="MAIN_CLASS_NAME" value="learn.cookies.MycookiesForGet" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -463,22 +392,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestMethodsDemo.logDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter6" />
+    <configuration name="MyhttpClient" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="learn.com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="demo" />
-      <option name="MAIN_CLASS_NAME" value="demo.TestMethodsDemo" />
-      <option name="METHOD_NAME" value="logDemo" />
+      <option name="PACKAGE_NAME" value="learn.com" />
+      <option name="MAIN_CLASS_NAME" value="learn.com.MyhttpClient" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -634,19 +563,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.mazmTomcat" />
-      <item itemvalue="TestNG.TestMethodsDemo" />
       <item itemvalue="TestNG.TestMethodsDemo.test2" />
-      <item itemvalue="TestNG.TestMethodsDemo.logDemo" />
       <item itemvalue="TestNG.TestMethodsDemo.test3" />
       <item itemvalue="TestNG.E:/AutoTest/Test/Chapter6/src/main/resources/ExtentReport.xml" />
+      <item itemvalue="TestNG.MyhttpClient" />
+      <item itemvalue="TestNG.MycookiesForGet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MycookiesForGet" />
+        <item itemvalue="TestNG.MyhttpClient" />
         <item itemvalue="TestNG.E:/AutoTest/Test/Chapter6/src/main/resources/ExtentReport.xml" />
         <item itemvalue="TestNG.TestMethodsDemo.test2" />
         <item itemvalue="TestNG.TestMethodsDemo.test3" />
-        <item itemvalue="TestNG.TestMethodsDemo.logDemo" />
-        <item itemvalue="TestNG.TestMethodsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -665,25 +594,13 @@
       <workItem from="1562574212981" duration="855000" />
       <workItem from="1562580973284" duration="8633000" />
       <workItem from="1562730557972" duration="9666000" />
-<<<<<<< HEAD
-      <workItem from="1562834865462" duration="1100000" />
-      <workItem from="1562855567084" duration="10000" />
-      <workItem from="1563006895675" duration="3722000" />
-      <workItem from="1563327289280" duration="371000" />
-=======
       <workItem from="1562834865462" duration="1149000" />
       <workItem from="1562919728422" duration="630000" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+      <workItem from="1563675191171" duration="1746000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMethodsDemo_logDemo - 2019.07.11 at 16h 38m 49s.xml">
-      <configuration name="TestMethodsDemo.logDemo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestMethodsDemo_test3 - 2019.07.11 at 20h 25m 43s.xml">
-      <configuration name="TestMethodsDemo.test3" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestMethodsDemo_test2 - 2019.07.11 at 20h 29m 08s.xml">
       <configuration name="TestMethodsDemo.test2" configurationId="TestNG" />
     </history-entry>
@@ -708,13 +625,15 @@
     <history-entry file="E__AutoTest_Test_Chapter6_src_main_resources_ExtentReport_xml - 2019.07.12 at 18h 42m 23s.xml">
       <configuration name="E:/AutoTest/Test/Chapter6/src/main/resources/ExtentReport.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="MyhttpClient - 2019.07.17 at 17h 28m 37s.xml">
+      <configuration name="MyhttpClient" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MycookiesForGet - 2019.07.17 at 18h 06m 52s.xml">
+      <configuration name="MycookiesForGet" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="44278000" />
-=======
-    <option name="totallyTimeSpent" value="39919000" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+    <option name="totallyTimeSpent" value="44604000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -726,39 +645,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
-<<<<<<< HEAD
-=======
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.46439958" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32933104" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.23100305" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32933104" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26929674" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32933104" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26899695" />
-=======
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.5025729" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32943678" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27098832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27098832" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32994923" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2667173" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -768,24 +672,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-<<<<<<< HEAD
-=======
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32994923" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.75128645" />
-=======
       <window_info anchor="bottom" id="Messages" order="11" weight="0.7523911" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25572917" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -824,33 +715,7 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapte7/starp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git管理.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-=======
-    <entry file="file://$PROJECT_DIR$/Chapte7/starup">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapte7/starup" />
     <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/ExtentReport.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -862,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1560">
           <caret line="881" column="7" selection-start-line="881" selection-start-column="7" selection-end-line="881" selection-end-column="7" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
         </state>
       </provider>
     </entry>
@@ -1022,17 +886,11 @@
     <entry file="file://$USER_HOME$/.m2/settings.xml" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="170" column="7" selection-start-line="170" selection-start-column="7" selection-end-line="170" selection-end-column="7" />
+        <state relative-caret-position="-129">
+          <caret line="954" column="16" selection-start-line="954" selection-start-column="16" selection-end-line="954" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/Chapter6/target/classes/demo/TestMethodsDemo.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
     <entry file="file://$PROJECT_DIR$/Chapter6/test-output/report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342" />
@@ -1045,17 +903,10 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGReporterListenerOld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1843">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-=======
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
         </state>
       </provider>
     </entry>
@@ -1066,23 +917,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGIReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/ExtentReport.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
     <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
@@ -1092,68 +926,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Chapter7.txt" />
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Chapter8/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/depend/dependTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/suite/ExpectedExcptiong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/TimeOutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/learn/test/BasicAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git管理.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/multThread.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter/src/main/resources/groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
-=======
-    <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明" />
     <entry file="file://$PROJECT_DIR$/Chapte7/starp" />
     <entry file="file://$PROJECT_DIR$/git管理.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1166,28 +939,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/demo/ExtentTestNGReporterListenerOld.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="171">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapte7/基本操作說明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-=======
         <state relative-caret-position="25">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1195,10 +953,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3075">
           <caret line="123" column="5" lean-forward="true" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapte7/基本操作说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/src/main/java/learn/com/MyhttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapte7/starupWithCookies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/src/main/java/learn/cookies/MycookiesForGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
->>>>>>> f463e226c564957b7d9e9563215609c6c32e0988
         </state>
       </provider>
     </entry>
