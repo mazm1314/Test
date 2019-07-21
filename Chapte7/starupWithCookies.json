@@ -8,9 +8,7 @@
     "response":{
       "text":"这是一个带cookies信息的get请求",
       "cookies":{
-        "login":"true",
-        "passport":"demo",
-        "english":"hello"
+        "passport":"demo"
       },
       "headers":{
         "Content-Type":"text/html;charset=gbk"
@@ -23,7 +21,6 @@
       "uri":"/get/with/cookies",
       "method":"get",
       "cookies":{
-        "login":"true",
         "passport":"demo"
       }
     },
@@ -61,7 +58,6 @@
       "uri":"/post/withPara/cookies",
       "method":"post",
       "cookies":{
-        "login":"true",
         "passport":"demo"
       },
       "json":{
@@ -72,7 +68,7 @@
     "response":{
       "status":"200",
       "json":{
-        "啦啦":"success",
+        "lala":"success",
         "status":"1"
       },
       "headers":{
