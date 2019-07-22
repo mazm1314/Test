@@ -10,7 +10,8 @@
 路径要注意
 启动命令： java -jar ./moco-runner-0.11.0-standalone.jar http -p 8989 -c starupWithCookies.json
 
-7.6：Moco框架中如何加入cookies
+
+7.6：Moco框架中如何加入cookie
 
 注意的是：添加cookies时要添加域名
 
