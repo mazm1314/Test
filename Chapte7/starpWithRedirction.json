@@ -1,0 +1,30 @@
+[
+  {
+    "description":"给他重定向到百度",
+    "request":{
+      "uri":"/redirection"
+    },
+    "redirectTo":"https://www.baidu.com"
+  },
+
+
+  {
+    "description":"重定向到自己的网页上",
+    "request":{
+      "uri":"/redirection/topath"
+    },
+    "redirectTo":"/redirection/path/here"
+  },
+  {
+    "description":"这是被重定向到请求",
+    "request":{
+      "uri":"/redirection/path/here"
+    },
+    "response":{
+      "text":"重定向到这里了",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]

@@ -1,0 +1,6 @@
+9.1:HttpClient简介及第一个demo
+    http://hc.apache.org/  官方网站
+9.2 Mock一个返回cookies信息的请求
+9.4：获取一个cookis信息
+9.5：携带Cookies信息访问get请求   这里只展示了只有一个cookies信息的情况
+9.6：post方法的访问实战

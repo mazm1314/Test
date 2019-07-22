@@ -12,5 +12,5 @@ public class TimeOutTest {
     @Test(timeOut = 2000)   //等待时间是2秒
     public void testFailed() throws InterruptedException {
         Thread.sleep(3000);   //但是我睡了3秒
-    }
+}
 }
