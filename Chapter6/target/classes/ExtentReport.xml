@@ -22,8 +22,8 @@
     report.html    css加载不出来
     -->
     <listeners>
-        <!--<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>-->
-        <!--<listener class-name="demo.ExtentTestNGReporterListenerOld"/>-->
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>
+        <listener class-name="demo.ExtentTestNGReporterListenerOld"/>
         <listener class-name="demo.ExtentTestNGIReporterListener" />
     </listeners>
 </suite>
