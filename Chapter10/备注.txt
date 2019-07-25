@@ -7,3 +7,32 @@
 10.2：Spring boot基本介绍
 
 10.3：使用springboot返回cookies信息的get接口开发
+10.5 ：开发一个需要携带参数才能访问的get请求
+
+10.6 spring boot集成SwaggerUI
+
+SwaggerUI:自动生成一些接口文档的类似插件的东西，有了它，我们就不用写接口文档了
+
+10.8：lombok plugin 插件：设置-plugin--搜索lombok plugin可安装  作用：就是以下的方法不用写
+@Getter and @Setter
+@FieldNameConstants
+@ToString
+@EqualsAndHashCode
+@AllArgsConstructor, @RequiredArgsConstructor and @NoArgsConstructor
+@Log, @Log4j, @Log4j2, @Slf4j, @XSlf4j, @CommonsLog, @JBossLog, @Flogger
+@Data
+@Builder
+@Singular
+@Delegate
+@Value
+@Accessors
+@Wither
+@SneakyThrows
+from Intellij 14.1 @val
+from Intellij 15.0.2 @var
+from Intellij 14.1 @var
+from Intellij 2016.2 @UtilityClass
+Lombok config system
+Code inspections
+
+

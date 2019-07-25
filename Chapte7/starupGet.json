@@ -19,12 +19,119 @@
       "uri":"/getDemoPara",
       "method":"get",
       "queries": {
-        "name": "小敏",
-        "age": "18"
+        "start": "10",
+        "end": "18"
       }
     },
     "response":{
       "text":"这是一个带参数的get请求",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+  {
+    "description":"第八章Mock一个返回cookies信息的请求",
+    "request":{
+      "uri":"/getCookies",
+      "method":"get"
+    },
+    "response":{
+      "text":"这是一个带cookies信息的get请求",
+      "cookies":{
+        "passport":"demo"
+      },
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+  {
+    "description":"这是一个带cookies信息的请求",
+    "request":{
+      "uri":"/get/with/cookies",
+      "method":"get",
+      "cookies":{
+        "passport":"demo"
+      }
+    },
+    "response":{
+      "text":"这是一个带cookies信息的get请求",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+
+  {
+    "description":"这是一个带cookies信息但是没有参数的请求",
+    "request":{
+      "uri":"/post/with/cookies",
+      "method":"post",
+      "cookies":{
+        "login":"true",
+        "passport":"demo"
+      }
+    },
+    "response":{
+      "text":"这是一个带cookies信息但没有参数的post请求",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+
+
+
+  {
+    "description":"这是一个带cookies信息并有参数(json)格式的请求",
+    "request":{
+      "uri":"/post/withPara/cookies",
+      "method":"post",
+      "cookies":{
+        "passport":"demo"
+      },
+      "json":{
+        "name":"lala",
+        "age":"12"
+      }
+    },
+    "response":{
+      "status":"200",
+      "json":{
+        "lala":"success",
+        "status":"1"
+      },
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+
+
+  {
+    "description":"这是一个带headers信息并有参数(json)格式的请求",
+    "request":{
+      "uri":"/post/withHeaders/cookies",
+      "method":"post",
+      "headers":{
+        "Content-Type":"application/json"
+      },
+      "cookies":{
+        "login":"true",
+        "passport":"demo"
+      },
+      "json":{
+        "name":"lala",
+        "age":"12"
+      }
+    },
+    "response":{
+      "status":"200",
+      "json":{
+        "啦啦":"success",
+        "status":"1"
+      },
       "headers":{
         "Content-Type":"text/html;charset=gbk"
       }
