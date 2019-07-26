@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/server/myGetMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/server/myPostMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapte7/starupGet.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapte7/starupGet.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/course/com/myGetMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/learn/com/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/course/com/myGetMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/target/classes/learn/com/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/备注.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/备注.txt" afterDir="false" />
-    </list>
+    <list default="true" id="74796d29-a199-42e0-ab1c-0aaaecc7a150" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
     <ignored path="$PROJECT_DIR$/Chapter/Chapter6/target/" />
@@ -75,8 +44,8 @@
       <file leaf-file-name="myPostMethod.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/course/com/server/myPostMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+            <state relative-caret-position="341">
+              <caret line="42" column="57" lean-forward="true" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -519,7 +488,7 @@
       <workItem from="1563521437075" duration="21000" />
       <workItem from="1563760323065" duration="23572000" />
       <workItem from="1563962856918" duration="10104000" />
-      <workItem from="1564022048196" duration="4424000" />
+      <workItem from="1564022048196" duration="4598000" />
     </task>
     <servers />
   </component>
@@ -556,7 +525,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36668000" />
+    <option name="totallyTimeSpent" value="36842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -912,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/course/com/server/myPostMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        <state relative-caret-position="341">
+          <caret line="42" column="57" lean-forward="true" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
