@@ -1,0 +1,24 @@
+#写一些配置文件  不变橙色，要在冒号后边加个空格
+
+server:
+  port: 8888
+
+logging:
+    path: logs
+    file: mylog.log
+
+spring:
+   application:
+          name: myTest
+   datasource:
+       driver-class-name: com.mysql.jdbc.Driver
+       url: jdbc:mysql://localhost:3306/test
+       username: root
+       password: root
+
+#用来映射resourse下的mapper文件
+mybatis:
+    type-aliases-package: com.course.model
+    mapper-locations:
+       - mapper/*
+
