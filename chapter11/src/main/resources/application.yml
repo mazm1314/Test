@@ -1,4 +1,5 @@
 #写一些配置文件  不变橙色，要在冒号后边加个空格
+#名称必须是这个
 
 server:
   port: 8888
@@ -18,7 +19,7 @@ spring:
 
 #用来映射resourse下的mapper文件
 mybatis:
-    type-aliases-package: com.course.model
+    type-aliases-package: com.course.model    #javabean对应的一席包  做映射
     mapper-locations:
        - mapper/*
 

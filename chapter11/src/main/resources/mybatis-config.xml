@@ -14,11 +14,11 @@
 <!-- 用来映射application.yml的mybatis文件-->
 <configuration>
     <typeAliases>
-        <package  name="com.course.model"/>
+        <package  name="com.course"/>
     </typeAliases>
-    <mapper>
+    <mappers>
         <mapper resource="mapper/mysql.xml"/>
-    </mapper>
+    </mappers>
 </configuration>
 
 
