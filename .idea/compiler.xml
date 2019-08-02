@@ -9,6 +9,7 @@
         <module name="Chapter10" />
         <module name="chapter11" />
         <module name="chapter11 (1)" />
+        <module name="Chapter12" />
         <module name="Chapter6" />
         <module name="Chapter9" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="Chapter10" target="8" />
       <module name="chapter11" target="1.5" />
       <module name="chapter11 (1)" target="1.5" />
+      <module name="Chapter12" target="1.5" />
       <module name="Chapter5" target="1.5" />
       <module name="Chapter6" target="6" />
       <module name="Chapter9" target="1.5" />
