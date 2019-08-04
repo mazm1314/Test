@@ -14,6 +14,11 @@ public class User {
     private  int permission;
     private int isDelete;
 
+
+    /**
+     * 以json格式输出
+     * @return
+     */
     @Override
     public String toString(){
         return(

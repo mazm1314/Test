@@ -7,9 +7,9 @@ public class AddUserCase {
     private String userName;
     private String password;
     private String sex;
-    private int age;
-    private int permission;
-    private int isDelete;
+    private String age;
+    private String permission;
+    private String isDelete;
     private String expected;
 
     public String getUserName() {
@@ -24,15 +24,15 @@ public class AddUserCase {
         return sex;
     }
 
-    public int getAge() {
+    public String getAge() {
         return age;
     }
 
-    public int getPermission() {
+    public String getPermission() {
         return permission;
     }
 
-    public int getIsDelete() {
+    public String getIsDelete() {
         return isDelete;
     }
 
