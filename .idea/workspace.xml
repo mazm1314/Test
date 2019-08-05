@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202d7fd3-a9c0-4a85-8e36-74f8eece5469" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/updateUserinfoCase.java" beforeDir="false" />
-    </list>
+    <list default="true" id="202d7fd3-a9c0-4a85-8e36-74f8eece5469" name="Default" comment="" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,15 +200,15 @@
       <workItem from="1564365432645" duration="7057000" />
       <workItem from="1564544531597" duration="25032000" />
       <workItem from="1564712984395" duration="5867000" />
-      <workItem from="1564972064515" duration="562000" />
+      <workItem from="1564972064515" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="492000" />
+    <option name="totallyTimeSpent" value="741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.3278867" />
