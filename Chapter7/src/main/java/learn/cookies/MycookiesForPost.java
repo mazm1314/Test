@@ -52,6 +52,8 @@ public class MycookiesForPost {
             System.out.println("cookies name:"+name+";cookies value:"+value);
         }
     }
+
+
     //必须依赖上一个方法的原因是，第一个get方法返回了cookies信息  要想访问这个post方法，必须带着这个cookies信息
     @Test(dependsOnMethods ={"test"} )
     public void testPostMethod() throws IOException {

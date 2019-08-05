@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class GetUserListCase {
     private String userName;
-    private int age;
+    private String age;
     private String sex;
     private String expected;
 
@@ -13,7 +13,7 @@ public class GetUserListCase {
         return userName;
     }
 
-    public int getAge() {
+    public String getAge() {
         return age;
     }
 
