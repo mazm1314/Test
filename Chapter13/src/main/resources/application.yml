@@ -12,7 +12,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
 #    "date": "Wed, 07 Aug 2019 12:23:06 GMT",这里会报这个错；所以改一下?serverTimezone=GMT
-    url: jdbc:mysql://localhost:3306/test?serverTimezone=GMT
+    url: jdbc:mysql://localhost:3306/test
     data-username: root
     data-password: root
 mybatis:
